@@ -4,3 +4,7 @@ function signUp(email){
 }
 
 //pegando email e cadastrando
+
+function mostraMensagem(){
+    return 'Bem vindo ao sistema';
+}
